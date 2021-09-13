@@ -27,7 +27,7 @@
 
 <p align="center">
 &nbsp; <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer"><img src="https://imgur.com/q8wWcRk.png" width="40" /></a> 
-&nbsp; <a href="ezequias.mc@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://imgur.com/QjiL9WH.png"  width="40" /></a>
+&nbsp; <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer"><img src="https://imgur.com/QjiL9WH.png"  width="40" /></a>
 </p>
 
 ⭐️ Por [zRise](https://github.com/zRise)
