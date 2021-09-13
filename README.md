@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
 - 🔭 &nbsp; I’m currently learning Flutter Application Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Explorando novas tecnologias e conhecendo o cyberworld.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Futuro desenvolvedor de aplicativos Android.
 - ☕ &nbsp; Eu acredito, que uma xícara de café perfeita pode ser a solução definitiva para qualquer estresse.
