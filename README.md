@@ -3,10 +3,9 @@
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🔭 &nbsp; atualmente estou aprendendo o desenvolvimento de aplicativos pelo Android Studio.
 - 🤔 &nbsp; Explorando novas tecnologias e conhecendo o CyberWorld.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Futuro desenvolvedor de aplicativos Android.
+- 🎓 &nbsp; Futuro desenvolvedor de aplicativos Android.
 - ☕ &nbsp; Eu acredito, que uma xícara de café perfeita pode ser a solução definitiva para qualquer estresse.
 
 <h3>🛠 Tech Stack</h3>
