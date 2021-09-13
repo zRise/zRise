@@ -26,7 +26,7 @@
 <h3> 🤝🏻Conecte-se comigo </h3>
 
 <p align="center">
-&nbsp; <a href="https://twitter.com/_souvik_guria" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a> 
+&nbsp; <a href="https://twitter.com/_souvik_guria" target="_blank" rel="noopener noreferrer"><img src="https://imgur.com/q8wWcRk.png" width="50" /></a> 
 &nbsp; <a href="ezequias.mc@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://imgur.com/QjiL9WH.png"  width="40" /></a>
 </p>
 
