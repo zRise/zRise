@@ -22,7 +22,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zRise&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/zRise/github-readme-stats)
 
-<img align="center" src"https://profile-counter.glitch.me/zRise/count.svg">
+<img align="center" src="https://profile-counter.glitch.me/zRise/count.svg" alt="zRise's Github Stats">
+
 
 <h3> 🤝🏻Conecte-se comigo </h3>
 
