@@ -22,14 +22,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zRise&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/zRise/github-readme-stats)
 
+- Contador de Visitas
+<img align="center" src="https://profile-counter.glitch.me/zRise/count.svg" alt="zRise Visitor Count">
+
 <h3> 🤝🏻Conecte-se comigo </h3>
 
 <p align="center">
 &nbsp; <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer"><img src="https://imgur.com/q8wWcRk.png" width="40" /></a> 
 &nbsp; <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer"><img src="https://imgur.com/QjiL9WH.png"  width="40" /></a>
 </p>
-
-- Contador de Visitas
-<img align="center" src="https://profile-counter.glitch.me/zRise/count.svg" alt="zRise Visitor Count">
 
 ⭐️ Por [zRise](https://github.com/zRise)
