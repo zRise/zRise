@@ -29,7 +29,7 @@
 &nbsp; <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer"><img src="https://imgur.com/QjiL9WH.png"  width="40" /></a>
 </p>
 
-Contador de Visitas
+- Contador de Visitas
 <img align="center" src="https://profile-counter.glitch.me/zRise/count.svg" alt="zRise Visitor Count">
 
 ⭐️ Por [zRise](https://github.com/zRise)
