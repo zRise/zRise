@@ -10,9 +10,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C++  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Node.js
-- 🔧 &nbsp; Visual Studio Code | Eclipse
+- 💻 &nbsp; HTML | CSS
+- 🌐 &nbsp; JavaScript | Node.js | C++
+- 🔧 &nbsp; Visual Studio Code | Eclipse | Notepad++
+- 📷 &nbsp; Canva | Pixlr | PhotoShop
+- 🎥 &nbsp; Camtasia | Adobe Premiere | Filmora 
 
 <br>
 
