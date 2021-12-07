@@ -1,4 +1,4 @@
-<h2> Hey there! Eu sou zRise. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there! Eu sou Ezequias. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif4.gif" width="500"/>
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
