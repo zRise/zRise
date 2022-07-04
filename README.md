@@ -8,6 +8,11 @@
 - 🎓 &nbsp; Futuro desenvolvedor de aplicativos Android.
 - ☕ &nbsp; Eu acredito, que uma xícara de café perfeita pode ser a solução definitiva para qualquer estresse.
 
+💡 &nbsp;Gosto de explorar novas tecnologias e desenvolver soluções de software e hacks rápidos.\
+🎓 &nbsp;Atualmente estou estudando no Ensino Fundamental II.\
+🌱 &nbsp;Estou no caminho certo para aprender mais sobre Inteligência Artificial, Design de Sistemas e Arquitetura de Nuvem.\
+✍️ &nbsp;No meu tempo livre, busco Edição de Vídeos e desempenhar-me em linguagens de programação.\
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
