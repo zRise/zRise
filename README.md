@@ -1,5 +1,5 @@
 <h2> Hey there! Eu sou Ezequias. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif4.gif" width="500"/>
+<img align="right" alt="GIF" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif?raw=true"/>
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
