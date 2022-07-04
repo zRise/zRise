@@ -1,20 +1,14 @@
 <h2> Hey there! Eu sou Ezequias. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif?raw=true"/>
 
-<h3> 👨🏻‍💻 Sobre mim </h3>
+### 👨🏻‍💻 &nbsp;Sobre Mim</h3>
 
 - 🔭 &nbsp; Futuro desenvolvedor.
 - 🤔 &nbsp; Explorando novas tecnologias e conhecendo o CyberWorld.
 - 🎓 &nbsp; Futuro desenvolvedor de aplicativos Android.
 - ☕ &nbsp; Eu acredito, que uma xícara de café perfeita pode ser a solução definitiva para qualquer estresse.
 
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; HTML | CSS
-- 🌐 &nbsp; JavaScript | Node.js | C++
-- 🔧 &nbsp; Visual Studio Code | Eclipse | Notepad++
-- 📷 &nbsp; Canva | Pixlr | PhotoShop
-- 🎥 &nbsp; Camtasia | Adobe Premiere | Filmora 
+### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -24,7 +18,10 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![Adobe Premiere](https://img.shields.io/badge/-Adobe%20Premiere-05122A?style=flat&logo=adobe&logoColor=007ACC)&nbsp;
+![Filmora](https://img.shields.io/badge/-Filmora-05122A?style=flat&logo=filmora&logoColor=007ACC)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -35,9 +32,6 @@
 username=zRise&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-- Contador de Visitas
-<img align="center" src="https://profile-counter.glitch.me/zRise/count.svg" alt="zRise Visitor Count">
 
 <h3> 🤝🏻Conecte-se comigo </h3>
 
