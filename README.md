@@ -4,7 +4,7 @@
 ### 👨🏻‍💻 &nbsp;Sobre Mim</h3>
 
 - 🔭 &nbsp; Gosto de explorar novas tecnologias e desenvolver soluções de software e hacks rápidos.
-- 🎓 &nbsp; Atualmente estou estudando no Ensino Fundamental II.
+- 🎓 &nbsp; Atualmente estudo no Ensino Fundamental II.
 - 👣 &nbsp; Estou no caminho certo para aprender mais sobre Engenharia de Software e Desenvolvimento de Sistemas.
 - ✍️ &nbsp; No meu tempo livre, busco Edição de Vídeos e desempenhar-me em linguagens de programação.
 - ☕ &nbsp; Eu acredito, que uma xícara de café perfeita pode ser a solução definitiva para qualquer estresse.
