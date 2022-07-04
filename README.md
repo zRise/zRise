@@ -32,11 +32,12 @@
 </a>
 </p>
 
-<h3> 🤝🏻Conecte-se comigo </h3>
+### 🤝🏻 &nbsp;Social
 
 <p align="center">
-&nbsp; <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer"><img src="https://imgur.com/q8wWcRk.png" width="40" /></a> 
-&nbsp; <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer"><img src="https://imgur.com/QjiL9WH.png"  width="40" /></a>
+<a href="https://instagram.com/ezequias.cardoso1"><img src="https://img.shields.io/badge/-@ezequias.cardoso1_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://twitter.com/https_zrise"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
-⭐️ Por [zRise](https://github.com/zRise)
+-----
+<p align="center"> ⭐️ Por [zRise](https://github.com/zRise)
