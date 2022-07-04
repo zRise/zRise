@@ -32,11 +32,12 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Social
+### 🤝🏻 &nbsp;Conecte-se comigo
 
 <p align="center">
 <a href="https://instagram.com/ezequias.cardoso1"><img src="https://img.shields.io/badge/-Instagram_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/https_zrise"><img src="https://img.shields.io/badge/-Twitter-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://open.spotify.com/user/p5jcwdkx42mtbfzrknifi1njh"><img src="https://img.shields.io/badge/-Spotify-1877F2?style=flat&logo=Spotify&logoColor=white"/></a>
 </p>
 
 -----
