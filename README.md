@@ -26,13 +26,14 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-<br>
+### ⚙️ &nbsp;GitHub Analytics
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=zRise&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="zRise's Github Stats">
-
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zRise&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/zRise)
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zRise&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zRise&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 - Contador de Visitas
 <img align="center" src="https://profile-counter.glitch.me/zRise/count.svg" alt="zRise Visitor Count">
