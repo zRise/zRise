@@ -36,7 +36,7 @@
 
 <p align="center">
 <a href="https://instagram.com/ezequias.cardoso1"><img src="https://img.shields.io/badge/-@ezequias.cardoso1_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/https_zrise"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://twitter.com/https_zrise"><img src="https://img.shields.io/badge/-@https_zrise-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 
 -----
