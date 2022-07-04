@@ -38,7 +38,9 @@
 <a href="https://instagram.com/ezequias.cardoso1"><img src="https://img.shields.io/badge/-Instagram_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/https_zrise"><img src="https://img.shields.io/badge/-Twitter-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="https://open.spotify.com/user/p5jcwdkx42mtbfzrknifi1njh"><img src="https://img.shields.io/badge/-Spotify-1DD860?style=flat&logo=Spotify&logoColor=white"/></a>
+<a href="https://discord.com/users/530684733475127296"><img src="https://img.shields.io/badge/-zRise#7455-5865F2?style=flat&logo=Spotify&logoColor=white"/></a>
 </p>
 
 -----
 ⭐️ Por [zRise](https://github.com/zRise)
+
