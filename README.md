@@ -40,4 +40,4 @@
 </p>
 
 -----
-<p align="center"> ⭐️ Por [zRise](https://github.com/zRise)
+⭐️ Por [zRise](https://github.com/zRise)
