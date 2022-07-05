@@ -41,7 +41,3 @@
 <a href="https://discord.com/users/530684733475127296"><img src="https://img.shields.io/badge/-zRise-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
 <a href="https://zrise.online/"><img src="https://i.imgur.com/W4JC96q.png" width="75"/></a>
 </p>
-
------
-⭐️ Por [zRise](https://github.com/zRise)
-
