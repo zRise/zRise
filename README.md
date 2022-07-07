@@ -1,5 +1,5 @@
 <h2> Hey there! Eu sou Ezequias. <img src="https://imgur.com/CQ4eJGF.gif" width="40"></h2>
-<img align="right" alt="GIF" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif?raw=true" width="370"/>
+<img align="right" alt="GIF" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif?raw=true" width="375"/>
 
 ### 👨🏻‍💻 &nbsp;Sobre Mim</h3>
 
